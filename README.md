@@ -9,3 +9,4 @@ You’re gonna wanna install mediapipe vers 0.10.18 and opencv-python vers 4.11.
 
 [View a video explanation here](https://github.com/user-attachments/assets/3ead0551-6671-4c98-84c7-e7c40826bede)
 
+https://docs.google.com/document/d/1TJBY9vZSzHgTuHgRvWfx7w2STfvgkIFkNJdnu8Ja4ds/edit?usp=sharing
